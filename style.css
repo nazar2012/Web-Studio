@@ -94,3 +94,55 @@ margin: 0 auto;
     display: block;
     margin: 0 auto;
 }
+.section-features{
+    padding-top: 54px;
+    padding-bottom: 94px;
+}
+.features-list{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.features-list li{
+    max-width: 270px;
+}
+.section-work{
+    padding-bottom: 94px;
+}
+.section-work-title{
+    padding-bottom: 50px;
+    text-align: center;
+}
+.work-list{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.team-title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.team-list{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.footer{
+    background: #2F303A;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.box{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.section-team{
+    padding-top: 94px;
+    padding-bottom: 54px;
+}
+.address-list-link{
+    color: #2196F3;
+}
+.address{
+    margin-top: 15px;
+}
